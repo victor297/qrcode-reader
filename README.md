@@ -1,3 +1,2 @@
-# miki
-Created with CodeSandbox
+# vicki
 # qrcode-reader
